@@ -2,7 +2,7 @@
 
 <div>
 <p style = 'text-align:center;'>
-<img src="https://pbs.twimg.com/media/EiAAHfoU4AADis4?format=jpg&name=small" alt="JuveYell" width="300px">
+<img src="https://github.com/Alexis96-2/Alexis96-2/blob/main/images/perfil%20cyberpunk.jpg" alt="me" width="300px">
 </p>
 </div>
 
