@@ -17,6 +17,6 @@ const alexis= {
 
 You can find me:
 - [Instagram](https://www.instagram.com/apha96/)
-- [Linkenind](https://www.linkedin.com/in/alexis-aparicio-622709204/)
+- [Linkedin](https://www.linkedin.com/in/alexis-aparicio-622709204/)
 
 ### My space
