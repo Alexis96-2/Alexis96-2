@@ -6,4 +6,13 @@
 </p>
 </div>
 
+```js
+const alexis= {
+    FullName: "Alexis Rafael Aparicio Hernández",
+    hobbies: ["Video Games", "Basketball", "Karate", "Anime", "Swimming", "Draw"],
+    abilities: ["Responsible", "Tolerant", "Resilient", "Creative", "Clever", "Solidary"]
+    certificate: ["Software Engineer", "Designer"]
+}
+```
+
 ### My space
